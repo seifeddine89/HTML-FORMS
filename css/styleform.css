@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Questrial|Ropa+Sans');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #92bde7;
+    margin: 0 8%;
+    height: 900px;;
+    
+}
+main{
+    margin: 20px;
+    display: flex;
+  
+}
+
+
+
+.titre{
+    font-size: 2em;
+    font-weight: bold;
+    color: #485e74;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px 0px 0px 20px;
+}
+#span{
+    color: white;
+}
+
+
+.partie1{
+    width: 35%;
+    background-color: #c9e6ff;
+    padding: 30px 45px;
+
+}
+
+.themeparagraphe1{
+    font-size: 1.17em;
+    font-weight: bold;
+    color: #485e74;
+}
+
+
+.partie2{
+    width:65%;
+    background-color: #f9feff;
+    padding: 20px 10px 0px 10px;
+
+}
+
+.titre2{
+    margin: 20px 0px 0px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#titreh2{
+    color: #485e74;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.inscrit{
+    margin: 20px 0px 0px 20px;
+display: flex;
+position: relative;
+}
+
+.themeparagraphe2{
+    font-size: 20px;
+    color: #485e74;
+}
+.titreprenom{
+    color: #485e74;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#prenom{
+    border: 1px solid #c9e6ff;
+    width: 334px;
+    height: 40px;;
+    
+}
+
+.choix{
+    position: absolute;
+    left: 350px;
+    
+}
+
+#zonetexte{
+    border: 1px solid #c9e6ff;
+    width: 50%;
+    height: 50px;
+   
+
+}
+#zonetexte2{
+    border: 1px solid #c9e6ff;
+    width: 88%;
+
+}
+
+.zone{
+        margin: 20px 0px 0px 20px;
+    
+}
+    
+.zone2{
+        margin: 20px 0px 0px 20px;
+}
+    
+    
+#soumettre{
+        margin: 20px 0px 0px 20px;
+        width: 85.5%;
+        padding: 10px 32px;
+        background-color: #c9e6ff;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /*hover de la bouton */
+}  
+
+.titrepiste{
+    color: #485e74;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.titredispositive{
+    color: #485e74;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+} 
+.titremessage{
+    color: #485e74;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+#soumettre:hover{
+    color:white;
+    background: #92bde7;
+}
+
+
+
+
+
